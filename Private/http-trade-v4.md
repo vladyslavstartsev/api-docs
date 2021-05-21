@@ -370,9 +370,9 @@ Available statuses:
 {
     "amount": "0.001",                 // amount
     "dealFee": "0",                    // fee in money that you pay if order is finished
-    "dealMoney": "0",                  // if order finished - amount in money currency that finished
-    "dealStock": "0",                  // if order finished - amount in stock currency that finished
-    "left": "0.001",                   // if order not finished - rest of amount that must be finished
+    "dealMoney": "0",                  // amount in money currency that finished
+    "dealStock": "0",                  // amount in stock currency that finished
+    "left": "0.001",                   // rest of amount that must be finished
     "makerFee": "0.001",               // maker fee ratio. If the number less than 0.0001 - its rounded to zero    
     "market": "BTC_USDT",              // deal market
     "orderId": 4180284841,             // order id
@@ -565,9 +565,9 @@ Available statuses:
 {
     "amount": "0.001",                 // amount
     "dealFee": "0",                    // fee in money that you pay if order is finished
-    "dealMoney": "0",                  // if order finished - amount in money currency that finished
-    "dealStock": "0",                  // if order finished - amount in stock currency that finished
-    "left": "0.001",                   // if order not finished - rest of amount that must be finished
+    "dealMoney": "0",                  // amount in money currency that finished
+    "dealStock": "0",                  // amount in stock currency that finished
+    "left": "0.001",                   // rest of amount that must be finished
     "makerFee": "0.001",               // maker fee ratio. If the number less than 0.0001 - its rounded to zero    
     "market": "BTC_USDT",              // deal market
     "orderId": 4180284841,             // order id
