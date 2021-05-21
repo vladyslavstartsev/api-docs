@@ -529,7 +529,7 @@ Name | Type | Mandatory | Description
 ------------ | ------------ | ------------ | ------------
 market | String | **Yes** | Available market. Example: BTC_USDT
 side | String | **Yes** | Order type. Variables: 'buy' / 'sell' Example: 'buy'
-amount | String | **Yes** | ⚠️Amount in stock currency for buy and for sell. Example: '0.001 BTC' (min amount).
+amount | String | **Yes** | ⚠️Amount in stock currency for buy or for sell. Example: '0.001 BTC' (min amount).
 clientOrderId | String | **No** | Identifier should be unique and contain letters, dashes or numbers only. The identifier must be unique for the next 24 hours.
 
 **Request BODY raw:**
